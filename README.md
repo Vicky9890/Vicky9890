@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passionate about building intelligent systems and data-driven solutions. I love experimenting with Machine Learning, Data Science and Cloud-based technologies to turn ideas into impactful applications.</p>
+<h3 align="center">Passionate about building intelligent systems and data-driven solutions. I love experimenting with Machine Learning, Data Science and Cloud-based technologies to turn ideas into impactful applications.</h3>
 
 ###
 
