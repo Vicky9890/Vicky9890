@@ -40,7 +40,7 @@
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
-  <img width="13" />
+  <img width="13" /></a>
   <img src="https://skillicons.dev/icons?i=django" height="39" alt="django logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=aws" height="39" alt="amazonwebservices logo"  />
