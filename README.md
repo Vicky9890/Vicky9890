@@ -38,19 +38,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="39" alt="python logo"  />
   <img width="13" /></a>
   <img src="https://skillicons.dev/icons?i=django" height="39" alt="django logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=aws" height="39" alt="amazonwebservices logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="39" alt="mysql logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="39" alt="mysql logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="39" alt="mongodb logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="39" alt="mongodb logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="39" alt="docker logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="39" alt="docker logo"  />
   <img width="13" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="60"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="39" alt="react logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="39" alt="html5 logo"  />
@@ -83,16 +83,6 @@
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky9890&show_icons=true&locale=en&layout=compact" alt="vicky9890" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=vicky9890&show_icons=true&locale=en" alt="vicky9890" /></p>
-  
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky9890&" alt="vicky9890" /></p> -->
 </div>
 
 ###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky9890&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vicky9890&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-### -->
